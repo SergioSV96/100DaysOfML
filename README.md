@@ -6,7 +6,7 @@
 
 **Thoughts** : I am finding it quite easy for the moment . This week I started using Python for the **first time**, I think I like it .
 
-**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-1)
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%201)
 
 ## Day 2 : Jul 19 , 2018
 
@@ -14,7 +14,7 @@
 
 **Thoughts** : I am finding lots of data sets and wondering if I can apply cool predictions to it , I cant't wait to start creating my own models .
 
-**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-1)
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%201)
 
 ## Day 3 : Jul 20 , 2018
 
@@ -22,7 +22,7 @@
 
 **Thoughts** : I am finding lots of data sets and wondering if I can apply cool predictions to it , I cant't wait to master manipulating data with pandas .
 
-**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-1)
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%201)
 
 ## Day 4 : Jul 21 , 2018
 
@@ -30,7 +30,7 @@
 
 **Thoughts** : I love it .
 
-**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-2)
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%202)
 
 ## Day 5 : Jul 22 , 2018
 
@@ -38,4 +38,4 @@
 
 **Thoughts** : When I finish, I will take the Pandas course .
 
-**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-2)
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%202)
