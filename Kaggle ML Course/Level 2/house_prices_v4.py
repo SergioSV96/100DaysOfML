@@ -7,6 +7,8 @@ from sklearn.preprocessing import Imputer
 main_file_path  = '../input/train.csv' # this is the path to the Iowa data
 iowa_data = pd.read_csv(main_file_path)
 
+iowa_target = iowa_data.P
+
 # this detect which cells have missing values, and then count
 # how many there are in each column
 print(iowa_data.isnull().sum())
