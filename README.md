@@ -39,3 +39,11 @@
 **Thoughts** : When I finish, I will take the Pandas course .
 
 **Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-2)
+
+## Day 6 : Jul 23 , 2018
+
+**Today's Progress** : I am still at **level 2** of the kaggle ml course, I got to XGBoost but I couldn't program today .
+
+**Thoughts** : However, I spent all day programming with pandas ... At work ! So I am getting better !
+
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/Kaggle-ML-Course/Level-2)
