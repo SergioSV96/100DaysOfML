@@ -47,3 +47,11 @@
 **Thoughts** : However, I spent all day programming with pandas ... At work ! So I am getting better at manipulating data !
 
 **Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%202)
+
+## Day 7 : Jul 24 , 2018
+
+**Today's Progress** : I am still at **level 2** of the kaggle ml course, I started programming some sections .
+
+**Thoughts** : This is getting harder . Again , I spent all day manipulating data with pandas at work , I wish I had a little more free time to complete this level .
+
+**Link of Work:**   [Folder](https://github.com/SergioSV96/100DaysOfML/tree/master/Kaggle%20ML%20Course/Level%202)
